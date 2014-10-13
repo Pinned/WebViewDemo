@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WebviewDemo</string>
+    <string name="geo_title">%s需要了解您的位置信息</string>
+    <string name="save_share_preference">保存偏好设置</string>
+    <string name="refused">拒绝</string>
+    <string name="share_location">共享地理位置</string>
+
+</resources>
